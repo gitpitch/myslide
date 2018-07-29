@@ -1,12 +1,12 @@
 #テーマの設定 black, moon, night, beige, sky, and white
-theme : moon
+theme : black
 
 #css
 #theme-override: css/PITCHME.css
 #theme-override : assets/css/PITCHME.css
 
 #ロゴアイコンの設定
-logo : /img/icon_circle96.png
+logo : /img/logo_circle96.png
 
 #フットノートの設定
 #footnote : "© 2017 sample Inc."
