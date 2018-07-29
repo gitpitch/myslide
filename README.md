@@ -39,7 +39,7 @@ GitPitchで見せたいスライド毎にフォルダ/ブランチ分けして
 @color[orange](name color)
 
 - 画像添付
-![Picture](/Img/logo_circle96.png)
+![Picture](/img/logo_circle96.png)
 
 
 
