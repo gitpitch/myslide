@@ -32,8 +32,9 @@ https://gitpitch.com/docs/about/
 
 - Markdown書式例
 
-@size[16pt](font size)
+@size[10pt](font size)
 
-@color[#DC143C](color)
+@color[#DC143C](HEX color)
 
+@color[orange](name color)
 
