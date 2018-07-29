@@ -11,3 +11,9 @@ GitPitch用のリポジトリ
 - インフラ勉強会 2018/08/01 CISSP取得のためにしたこと
 https://gitpitch.com/yuki476/myslide/20180801_cissp
 
+
+
+
+---
+
+![Trying](/img/trying.png)
