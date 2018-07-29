@@ -12,8 +12,7 @@ https://gitpitch.com/docs/about/
 `Markdownファイル`の中に`.md`ファイルを保存し、
 ファイルごとにブランチ切って`PITCHEME.md`の中身を置き換え
 
-[https://gitpitch.com/yuki476/myslide/$branch]
-
+[https://gitpitch.com/yuki476/myslide/<ブランチ>?p=<フォルダ名>]
 
 
 ---
@@ -36,7 +35,7 @@ https://gitpitch.com/docs/about/
 
 ---
 
-![Trying](/img/trying.png)
+![Trying](/Template/img/trying.png)
 
 
 

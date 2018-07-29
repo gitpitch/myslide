@@ -79,9 +79,23 @@ NW検証作業を9年。チームリーダ5年ほど。
 
 ---
 
-[ドメインガイドブック](https://japan.isc2.org/files/CISSP8_Guidebook_2017_1101.pdf)に
+ドメインガイドブックに
 
 出題範囲書かれてますが、偏りはほぼ無し。
+
+---
+
+(ISC)2 Japanの[ドメインガイドブック](https://japan.isc2.org/files/CISSP8_Guidebook_2017_1101.pdf)は4月半ばの
+
+更新が反映されていない。
+
+最新情報は[CISSP Ultimate Guide](https://www.isc2.org/Certifications/Ultimate-Guides/CISSP?utm_campaign=T-HQ-CISSPultimateguide&utm_source=isc2web&utm_medium=unbounce#contact-form-header)を参照。
+
+<pre>
+Domain 1：セキュリティとリスクマネジメント -1%
+Domain 7：セキュリティオペレーション　-3%
+Domain 2：アセットセキュリティ以外が1%ずつ増加。
+</pre>
 
 ---
 
@@ -447,7 +461,7 @@ Teratermマクロ、Pythonスクリプト少し書いたり、改良したり。
 
 ---
 
-![Trying](/img/trying.png)
+![Trying](/Img/trying.png)
 
 End.
 

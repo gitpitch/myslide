@@ -5,7 +5,7 @@ theme : black
 #theme-override : assets/css/PITCHME.css
 
 #ロゴアイコンの設定
-logo : /img/logo_circle96.png
+logo : /Img/logo_circle96.png
 
 #フットノートの設定
 footnote : "@yuki476 https://twitter.com/yuki476"
