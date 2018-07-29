@@ -20,13 +20,9 @@ https://gitpitch.com/docs/about/
 
 ## Branch一覧
 
-[インフラ勉強会 2018/08/01 CISSP取得のためにしたこと](https://gitpitch.com/yuki476/myslide/20180801_cissp)
+### [インフラ勉強会](https://wp.infra-workshop.tech/)
 
-
----
-
-![Trying](/img/trying.png)
-
+[2018/08/01 CISSP取得のためにしたこと](https://gitpitch.com/yuki476/myslide/20180801_cissp)
 
 ---
 
@@ -37,4 +33,11 @@ https://gitpitch.com/docs/about/
 @color[#DC143C](HEX color)
 
 @color[orange](name color)
+
+---
+
+![Trying](/img/trying.png)
+
+
+
 

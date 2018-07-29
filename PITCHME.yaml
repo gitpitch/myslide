@@ -1,5 +1,6 @@
 #テーマの設定 black, moon, night, beige, sky, and white
-#theme : moon
+theme : black
+layout: center-left
 
 #css
 #theme-override: css/PITCHME.css
@@ -9,7 +10,7 @@
 logo : /img/logo_circle96.png
 
 #フットノートの設定
-#footnote : "© 2017 sample Inc."
+footnote : "@yuki476 https://twitter.com/yuki476"
 
 #スライドのページ数表示の設定
 slide-number: true
