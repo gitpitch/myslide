@@ -17,6 +17,8 @@ https://gitpitch.com/docs/about/
 
 ---
 
+## 使い方
+
 `Markdownファイル`の中に`.md`ファイルを保存し、
 GitPitchで見せたいスライド毎にフォルダ/ブランチ分けして
 以下のURLでアクセス。
@@ -26,6 +28,8 @@ GitPitchで見せたいスライド毎にフォルダ/ブランチ分けして
 
 ---
 
+## 書式例：よく使うもの
+
 - Markdown書式例
 
 @size[14pt](font size)
@@ -33,8 +37,6 @@ GitPitchで見せたいスライド毎にフォルダ/ブランチ分けして
 @color[#DC143C](HEX color)
 
 @color[orange](name color)
-
----
 
 - 画像添付
 ![Trying](/Template/img/trying.png)
