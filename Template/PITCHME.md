@@ -2,26 +2,8 @@ yuki476
 
 GitPitch用のリポジトリ
 
----
+テンプレート用ファイル
 
-GitPitchの公式ドキュメント
-https://gitpitch.com/docs/about/
-
----
-
-`Markdownファイル`の中に`.md`ファイルを保存し、
-ファイルごとにブランチ切って`PITCHEME.md`の中身を置き換え
-
-[https://gitpitch.com/yuki476/myslide/<ブランチ>?p=<フォルダ名>]
-
-
----
-
-## Branch一覧
-
-### [インフラ勉強会](https://wp.infra-workshop.tech/)
-
-[2018/08/01 CISSP取得のためにしたこと](https://gitpitch.com/yuki476/myslide/20180801_cissp)
 
 ---
 
