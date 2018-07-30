@@ -122,12 +122,14 @@ Domain 2：アセットセキュリティ以外が1%ずつ増加。
 - [情報セキュリティ人材の育成指標等の策定](http://www.meti.go.jp/policy/it_policy/jinzai/index.html)
 <pre>
 事業報告書 第5編 (情報セキュリティ人材もモデルキャリア)
+http://www.meti.go.jp/policy/it_policy/jinzai/24freport5.pdf)
 </pre>
 
 - [サイバーセキュリティ人材の育成に関する施策関連系ワーキンググループ](https://www.nisc.go.jp/conference/cs/jinzai/wg2/index.html)
 <pre>
 第２回会合(平成２９年９月１４日)
 資料２－１ 実態調査からひも解く、これからの情報セキュリティのあり方
+https://www.nisc.go.jp/conference/cs/jinzai/wg2/dai02/pdf/02shiryou0201.pdf
 P33 ISEPA_情報セキュリティ資格マップ
 </pre>
 
@@ -141,12 +143,12 @@ P33 ISEPA_情報セキュリティ資格マップ
 
 - [産業構造審議会 商務流通情報分科会 情報経済小委員会 試験ワーキンググループ ](http://www.meti.go.jp/committee/gizi_1/32.html)
 <pre>
-第1回～第3回＋報告書。
-このワーキング・グループで"情報安全確保支援士"が具体的に策定される。
+試験ワーキング・グループ第1回～第3回＋報告書。
+ここで"情報安全確保支援士"が具体的に策定される。
 </pre>
 
 
-"情報安全確保支援士"はCISSPを意識して策定。
+"情報安全確保支援士"はCISSPを意識して策定。<br>
 日本版CISSPが情報安全確保支援士？
 
 
