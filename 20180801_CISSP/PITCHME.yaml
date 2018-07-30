@@ -1,5 +1,5 @@
 #テーマの設定 black, moon, night, beige, sky, and white
-theme : black,moon,white
+#theme : black
 ### CSS
 #theme-override: css/PITCHME.css
 #theme-override : assets/css/PITCHME.css
