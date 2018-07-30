@@ -122,7 +122,7 @@ Domain 2：アセットセキュリティ以外が1%ずつ増加。
 - [情報セキュリティ人材の育成指標等の策定](http://www.meti.go.jp/policy/it_policy/jinzai/index.html)
 <pre>
 事業報告書 第5編 (情報セキュリティ人材もモデルキャリア)
-http://www.meti.go.jp/policy/it_policy/jinzai/24freport5.pdf)
+http://www.meti.go.jp/policy/it_policy/jinzai/24freport5.pdf
 </pre>
 
 - [サイバーセキュリティ人材の育成に関する施策関連系ワーキンググループ](https://www.nisc.go.jp/conference/cs/jinzai/wg2/index.html)
@@ -130,10 +130,12 @@ http://www.meti.go.jp/policy/it_policy/jinzai/24freport5.pdf)
 第２回会合(平成２９年９月１４日)
 資料２－１ 実態調査からひも解く、これからの情報セキュリティのあり方
 https://www.nisc.go.jp/conference/cs/jinzai/wg2/dai02/pdf/02shiryou0201.pdf
-P33 ISEPA_情報セキュリティ資格マップ
+P34 情報セキュリティ認定・資格レベルマップ
 </pre>
 
 ---
+
+## 3.2 情報処理安全確保支援士との関係
 
 - [産業構造審議会 商務流通情報分科会 情報経済小委員会 IT人材ワーキンググループ（第5回）‐配布資料](http://www.meti.go.jp/committee/sankoushin/shojo/johokeizai/it_jinzai_wg/005_haifu.html)
 <pre>
@@ -144,13 +146,23 @@ P33 ISEPA_情報セキュリティ資格マップ
 - [産業構造審議会 商務流通情報分科会 情報経済小委員会 試験ワーキンググループ ](http://www.meti.go.jp/committee/gizi_1/32.html)
 <pre>
 試験ワーキング・グループ第1回～第3回＋報告書。
-ここで"情報安全確保支援士"が具体的に策定される。
+このWGで"情報安全確保支援士"が具体的に策定される。
 </pre>
 
 
-"情報安全確保支援士"はCISSPを意識して策定。<br>
-日本版CISSPが情報安全確保支援士？
+"情報処理安全確保支援士"はCISSPをかなり意識して策定。
 
+---
+
+## 3.3 私見
+
+私が情報処理安全確保支援士の問題を解いてみて
+受けた印象は、ここの分類図と同じ感じ。
+
+[セキュリティ関連の資格一覧と難易度！あなたにぴったりの資格は？](https://cybersecurity-jp.com/how-to/21726)
+
+
+今後どうなるのかは私も知りたい………
 
 ---
 
@@ -248,7 +260,7 @@ http://bit.ly/2v7oTPU
 <pre>
 8ドメイン 各100問ちょい
 総合テスト 125問×4
- ⇨ 合計 約1400問
+ ⇨ 合計 約1350問
 </pre>
 
 ---
@@ -379,10 +391,9 @@ CISSPの視点はやたらと広い！
 
 - 時期によっては日数が少ない
 - 会場が限られている<br>
-[プロフェッショナルセンタ 東京・大阪](https://www.pearsonvue.co.jp/test-taker/Pearson-Professional-Center-Tour.aspx)のみ。<br>
-福岡もあったような………
+[プロフェッショナルセンタ 東京・大阪](https://www.pearsonvue.co.jp/test-taker/Pearson-Professional-Center-Tour.aspx)と福岡一箇所のみ。<br>
 
-- キャンセル/変更は$100かかる
+- **キャンセルは\$100、変更は$50手数料が発生**
 
 
 ---
@@ -391,7 +402,7 @@ CISSPの視点はやたらと広い！
 
 試験時間は6時間。9時or15時開始。
 
-問題数は250、単純に86s/問
+**問題数は250、単純に86s/問**
 
 <pre>
 本当に辛い。1.5時間毎に3回休憩するぐらいのが良い。
@@ -447,7 +458,7 @@ CISSPの視点はやたらと広い！
 - 1回目
 <pre>
 ・研修 8時間x5 = 40時間
-・一ヶ月 1時間/日＋土日4時間 約60時間
+・一ヶ月 1.5時間/日＋土日4時間 約80時間
 </pre>
 
 - 2回目
@@ -458,7 +469,8 @@ CISSPの視点はやたらと広い！
 ・一ヶ月弱 1時間/日+土日6時間 約100時間
 </pre>
 
-おそらく250時間ぐらいか？
+おそらく250時間～300時間ぐらい？
+
 
 ---
 
@@ -498,6 +510,16 @@ Teratermマクロ、Pythonスクリプト少し書いたり、改良したり。
 受けるなら"覚悟"して取り組みましょう。
 
 合格後もポイント（CPE）稼ぎが必要です。
+
+---
+
+気になる方は 
+[(ISC)2 日本語版サイト](https://japan.isc2.org/)
+[(ISC)2 Japan Twitter](https://twitter.com/isc2_japan)
+
+
+偶に、無料セミナーなんかもやってるみたいです。
+[2018/06/25 CISSPチャレンジセミナー](http://www.cvent.com/events/cissp-/event-summary-a92883cebc9f4913a89b59518c5de252.aspx)
 
 ---
 
