@@ -399,7 +399,8 @@ CISSPの視点はやたらと広い！
 
 - 時期によっては日数が少ない
 - 会場が限られている<br>
-[プロフェッショナルセンタ 東京・大阪](https://www.pearsonvue.co.jp/test-taker/Pearson-Professional-Center-Tour.aspx)と福岡一箇所のみ。<br>
+[プロフェッショナルセンタ 東京・大阪](https://www.pearsonvue.co.jp/test-taker/Pearson-Professional-Center-Tour.aspx)と<br>福岡一箇所のみ。<br>
+
 
 - **キャンセルは\$100、変更は$50手数料が発生**
 
