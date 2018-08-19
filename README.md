@@ -9,11 +9,12 @@ GitPitchの公式ドキュメント
 https://gitpitch.com/docs/about/
 </pre>
 
-## Branch一覧
+## GitPitch一覧
 
 ### [インフラ勉強会](https://wp.infra-workshop.tech/)
 
 [2018/08/01 CISSP取得のためにしたこと](https://gitpitch.com/yuki476/myslide?p=20180801_CISSP)
+[2018/08/19 セキュリティの考え方＠CISSP](https://gitpitch.com/yuki476/myslide?p=20180819_security-framework)
 
 ---
 
