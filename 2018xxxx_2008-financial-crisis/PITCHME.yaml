@@ -1,0 +1,32 @@
+#テーマの設定 black, moon, night, beige, sky, and white
+theme : black
+### CSS
+#theme-override: css/PITCHME.css
+#theme-override : assets/css/PITCHME.css
+
+#ロゴアイコンの設定
+logo : /img/logo_circle96.png
+
+#フットノートの設定
+footnote : "@yuki476 https://twitter.com/yuki476"
+
+#スライドのページ数表示の設定
+slide-number: true
+layout: center-left
+
+#コードのシンタックスハイライトの設定
+highlight : monokai
+
+
+#トランジションの設定 convex, concave, default, fade, none, slide and zoom
+transition : slide
+
+#チャート / グラフ機能の設定
+charts : true
+
+
+####################
+#スライド自動再生の設定
+#autoslide : 5000
+#スライドのループ設定
+#loop : true
