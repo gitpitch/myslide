@@ -58,7 +58,8 @@ ANAの株主優待(航空券)が欲しかった
 
 ---
 
-2001-2006年 米国の住宅価格は右肩上がり。(インフレ)  
+2001-2006年 米国の住宅価格は右肩上がり。<br>
+(インフレ)  
 <br>
 
 借金をして家を購入。<br>
@@ -124,7 +125,7 @@ ANAの株主優待(航空券)が欲しかった
 
 2007年頃から住宅価格が下落し始める。
 
-![住宅価格の推移](/2018xxxx_2008-financial-crisis/img/US-house-value.png)
+![住宅価格の推移](/20180915_2008-financial-crisis/img/US-house-value.png)
 
 
 ---
@@ -166,7 +167,7 @@ ANAの株主優待(航空券)が欲しかった
 - 証券化して"Aさんに10万/年を10年要求できる券"にする
 </pre>
 
-![証券化01](/2018xxxx_2008-financial-crisis/img/stock001.png)
+![証券化01](/20180915_2008-financial-crisis/img/stock001.png)
 
 ---
 
@@ -177,7 +178,7 @@ ANAの株主優待(航空券)が欲しかった
     ⇨ 9年掛かるけど85万が90万になる。(年利0.65％)
 </pre>
 
-![証券化02](/2018xxxx_2008-financial-crisis/img/stock002.png)
+![証券化02](/20180915_2008-financial-crisis/img/stock002.png)
 
 ---
 
@@ -259,13 +260,13 @@ etc.
 ---
 
 この図、青い部分をCDS化する
-![証券化02](/2018xxxx_2008-financial-crisis/img/stock002.png)
+![証券化02](/20180915_2008-financial-crisis/img/stock002.png)
 
 ---
 
 Cさんが証券（青い部分）のCDSを発行
 
-![証券化02](/2018xxxx_2008-financial-crisis/img/stock003.png)
+![証券化02](/20180915_2008-financial-crisis/img/stock003.png)
 
 ---
 
@@ -299,7 +300,7 @@ Cさんの収益
 
 **6年目にBさんが破産したパターン**
 
-![証券化02](/2018xxxx_2008-financial-crisis/img/stock004.png)
+![証券化02](/20180915_2008-financial-crisis/img/stock004.png)
 
 ---
 
@@ -369,7 +370,7 @@ Cさんの収益
 @size[20pt]([S&Pの格付け定義等](https://www.standardandpoors.com/ja_JP/delegate/getPDF;jsessionid=272CB2E9F3F11804F40AAF356265D13D?articleId=2026052&type=COMMENTS&subType=RATING%20DEFINITION))
 
 
-![証券化02](/2018xxxx_2008-financial-crisis/img/rating.png)
+![証券化02](/20180915_2008-financial-crisis/img/rating.png)
 
 ---
 
@@ -475,13 +476,13 @@ BBBのサブプライムローン関連だけ集める。
 住宅価格の右肩上がりが止まる<br>
 どころか、むしろ下がりだす<br>
 
-![証券化02](/2018xxxx_2008-financial-crisis/img/US-house-value.png)
+![証券化02](/20180915_2008-financial-crisis/img/US-house-value.png)
 
 ---
 
 無理して借りてた人(サブプライム層)が破綻する。
 
-![証券化02](/2018xxxx_2008-financial-crisis/img/stock005.png)
+![証券化02](/20180915_2008-financial-crisis/img/stock005.png)
 
 ---
 
@@ -561,7 +562,7 @@ Too big to fail <br>
 
 ---
 
-![証券化02](/2018xxxx_2008-financial-crisis/img/Nikkei_20y.png)
+![証券化02](/20180915_2008-financial-crisis/img/Nikkei_20y.png)
 
 ---
 
